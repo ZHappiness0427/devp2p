@@ -8,7 +8,7 @@ diameter.
 The current protocol version is **4**. You can find a list of changes in past protocol
 versions at the end of this document.
 
-## Node Identities
+## Node Identities11
 
 Every node has a cryptographic identity, a key on the secp256k1 elliptic curve. The public
 key of the node serves as its identifier or 'node ID'.
